@@ -1,0 +1,13 @@
+"id_publication_db/conf/stoc/stoc91.html#AndersonW91":
+  "authors":
+  - "Richard J. Anderson"
+  - "Heather Woll"
+  "booktitle": "STOC"
+  "crossref": "conf/stoc/STOC23"
+  "ee": "http://doi.acm.org/10.1145/103418.103458"
+  "mdate": "2011-10-17"
+  "pages": "370-380"
+  "title": "Wait-free Parallel Algorithms for the Union-Find Problem"
+  "type": "inproceedings"
+  "url": "db/conf/stoc/stoc91.html#AndersonW91"
+  "year": "1991"

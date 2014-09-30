@@ -1,0 +1,18 @@
+"id_publication_db/conf/huc/ubicomp2012.html#KayCSGWCK12":
+  "authors":
+  - "Matthew Kay"
+  - "Eun Kyoung Choe"
+  - "Jesse Shepherd"
+  - "Benjamin Greenstein"
+  - "Nathaniel F. Watson"
+  - "Sunny Consolvo"
+  - "Julie A. Kientz"
+  "booktitle": "UbiComp"
+  "crossref": "conf/huc/2012"
+  "ee": "http://doi.acm.org/10.1145/2370216.2370253"
+  "mdate": "2013-05-10"
+  "pages": "226-234"
+  "title": "Lullaby: a capture & access system for understanding the sleep environment."
+  "type": "inproceedings"
+  "url": "db/conf/huc/ubicomp2012.html#KayCSGWCK12"
+  "year": "2012"

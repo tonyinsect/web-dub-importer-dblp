@@ -1,0 +1,15 @@
+"id_publication_db/conf/uist/uist2008.html#AdarDFW08":
+  "authors":
+  - "Eytan Adar"
+  - "Mira Dontcheva"
+  - "James Fogarty"
+  - "Daniel S. Weld"
+  "booktitle": "UIST"
+  "crossref": "conf/uist/2008"
+  "ee": "http://doi.acm.org/10.1145/1449715.1449756"
+  "mdate": "2008-10-27"
+  "pages": "239-248"
+  "title": "Zoetrope: interacting with the ephemeral web."
+  "type": "inproceedings"
+  "url": "db/conf/uist/uist2008.html#AdarDFW08"
+  "year": "2008"

@@ -1,2 +1,3 @@
 import importer
-importer.run('_dataC')
+# importer.run('_data')
+importer.normalize('_data')

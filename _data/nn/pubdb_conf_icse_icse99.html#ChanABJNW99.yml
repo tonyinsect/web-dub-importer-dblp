@@ -1,0 +1,18 @@
+"id_publication_db/conf/icse/icse99.html#ChanABJNW99":
+  "authors":
+  - "William Chan"
+  - "Richard J. Anderson"
+  - "Paul Beame"
+  - "David H. Jones"
+  - "David Notkin"
+  - "William E. Warner"
+  "booktitle": "ICSE"
+  "crossref": "conf/icse/1999"
+  "ee": "http://portal.acm.org/citation.cfm?id=302405.302460"
+  "mdate": "2012-05-14"
+  "pages": "142-151"
+  "title": "Decoupling Synchronization from Local Control for Efficient Symbolic Model\
+    \ Checking of Statecharts."
+  "type": "inproceedings"
+  "url": "db/conf/icse/icse99.html#ChanABJNW99"
+  "year": "1999"

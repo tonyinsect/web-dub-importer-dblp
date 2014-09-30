@@ -17,6 +17,7 @@ def run(directory):
     fin.close()
     # fout.write('---\n')
     fdict = {}
+    count = 0
 
     for url_id, url in urls.items():
         author = dblppython.dblp.Author(url['url'].strip('\n'))
@@ -29,6 +30,7 @@ def run(directory):
             pub = author.publications[i]
             try:
                 if pub.authors:
+                    tempdict = {}
                     print(i)
                     # hashcode = hashlib.sha224(str(pub)).hexdigest()
                     first = pub.authors[0].split(' ')
@@ -82,7 +84,18 @@ def run(directory):
                     if pub.year:
                         pdict['year'] = str(pub.year)
 
-                    adict['id_publication_' + pub.url] = pdict
+                    tempdict['id_publication_' + pub.url] = pdict
+                    filename = str(pub.url)
+                    # filename = str(count)
+                    # for j in range(5-len(filename)):
+                    #     filename = '0'+filename
+
+                    fout = codecs.open(directory + '/nn/pub'+filename.replace('/','_')+'.yml', 'w', 'utf-8')
+                    out = yaml.dump(tempdict, default_flow_style=False, default_style='"')
+                    fout.write(out)
+                    fout.close()
+                    count = count + 1
+                    # adict['id_publication_' + pub.url] = pdict
                     time.sleep(0.5)
                     # adict['id_publication_'+re.sub(r'[^a-zA-Z]','_',pub.title.lower())]
                     # = pdict
@@ -93,7 +106,7 @@ def run(directory):
         # use the full name of the people as the id
         fdict['id_' + name[len(name) - 1].lower() + '_' + name[0].lower()] = adict
 
-    fout = codecs.open(directory + '/publications.yml', 'w', 'utf-8')
-    out = yaml.dump(fdict, default_flow_style=False, default_style='"')
-    fout.write(out)
-    fout.close()
+    # fout = codecs.open(directory + '/publications.yml', 'w', 'utf-8')
+    # out = yaml.dump(fdict, default_flow_style=False, default_style='"')
+    # fout.write(out)
+    # fout.close()

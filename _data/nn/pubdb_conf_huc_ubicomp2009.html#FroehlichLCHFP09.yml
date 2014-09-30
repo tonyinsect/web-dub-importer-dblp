@@ -1,0 +1,18 @@
+"id_publication_db/conf/huc/ubicomp2009.html#FroehlichLCHFP09":
+  "authors":
+  - "Jon Froehlich"
+  - "Eric C. Larson"
+  - "Tim Campbell"
+  - "Conor Haggerty"
+  - "James Fogarty"
+  - "Shwetak N. Patel"
+  "booktitle": "UbiComp"
+  "crossref": "conf/huc/2009"
+  "ee": "http://doi.acm.org/10.1145/1620545.1620581"
+  "mdate": "2011-11-18"
+  "pages": "235-244"
+  "title": "HydroSense: infrastructure-mediated single-point sensing of whole-home\
+    \ water activity."
+  "type": "inproceedings"
+  "url": "db/conf/huc/ubicomp2009.html#FroehlichLCHFP09"
+  "year": "2009"

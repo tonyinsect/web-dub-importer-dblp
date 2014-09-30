@@ -1,0 +1,12 @@
+"id_publication_db/conf/spaa/spaa92.html#AndersonS92":
+  "authors":
+  - "Richard J. Anderson"
+  - "Jo\xE3o C. Setubal"
+  "booktitle": "SPAA"
+  "ee": "http://doi.acm.org/10.1145/140901.140919"
+  "mdate": "2002-12-09"
+  "pages": "168-177"
+  "title": "On the Parallel Implementation of Goldbergs Maximum Flow Algorithm."
+  "type": "inproceedings"
+  "url": "db/conf/spaa/spaa92.html#AndersonS92"
+  "year": "1992"

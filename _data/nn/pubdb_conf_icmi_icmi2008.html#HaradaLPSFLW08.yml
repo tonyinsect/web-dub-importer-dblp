@@ -1,0 +1,18 @@
+"id_publication_db/conf/icmi/icmi2008.html#HaradaLPSFLW08":
+  "authors":
+  - "Susumu Harada"
+  - "Jonathan Lester"
+  - "Kayur Patel"
+  - "T. Scott Saponas"
+  - "James Fogarty"
+  - "James A. Landay"
+  - "Jacob O. Wobbrock"
+  "booktitle": "ICMI"
+  "crossref": "conf/icmi/2008"
+  "ee": "http://doi.acm.org/10.1145/1452392.1452407"
+  "mdate": "2008-10-27"
+  "pages": "69-76"
+  "title": "VoiceLabel: using speech to label mobile sensor data."
+  "type": "inproceedings"
+  "url": "db/conf/icmi/icmi2008.html#HaradaLPSFLW08"
+  "year": "2008"
