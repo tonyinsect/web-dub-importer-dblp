@@ -1,0 +1,15 @@
+id_conferencepaper_chi2009_hoffmann:
+  authors:
+  - id_author_hoffmann_raphael
+  - id_author_amershi_saleema
+  - id_author_patel_kayur
+  - id_author_wu_fei
+  - id_author_fogarty_james
+  - id_author_weld_daniel
+  conference: id_conference_chi2009
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 1849-1858
+  title: Amplifying community content creation with mixed initiative information extraction.

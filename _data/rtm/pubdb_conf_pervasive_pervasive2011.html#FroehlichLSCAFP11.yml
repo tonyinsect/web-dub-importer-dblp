@@ -1,0 +1,17 @@
+id_conferencepaper_pervasive2011_froehlich:
+  authors:
+  - id_author_froehlich_jon
+  - id_author_larson_eric
+  - id_author_saba_elliot
+  - id_author_campbell_tim
+  - id_author_atlas_les
+  - id_author_fogarty_james
+  - id_author_patel_shwetak
+  conference: id_conference_pervasive2011
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 50-69
+  title: A Longitudinal Study of Pressure Sensing to Infer Real-World Water Usage
+    Events in the Home.

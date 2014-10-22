@@ -1,12 +1,13 @@
-"id_conferencepaper_26":
-  "authors":
-  - "id_author_hoffmann_raphael"
-  - "id_author_fogarty_james"
-  - "id_author_weld_daniel"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "13-22"
-  "title": "Assieme: finding and leveraging implicit references in a web search interface\
-    \ for programmers."
+id_conferencepaper_uist2007_hoffmann:
+  authors:
+  - id_author_hoffmann_raphael
+  - id_author_fogarty_james
+  - id_author_weld_daniel
+  conference: id_conference_uist2007
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 13-22
+  title: 'Assieme: finding and leveraging implicit references in a web search interface
+    for programmers.'

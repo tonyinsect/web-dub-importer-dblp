@@ -1,0 +1,13 @@
+id_conferencepaper_chi2008_fogarty:
+  authors:
+  - id_author_fogarty_james
+  - id_author_tan_desney
+  - id_author_kapoor_ashish
+  - id_author_winder_simon
+  conference: id_conference_chi2008
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 29-38
+  title: 'CueFlik: interactive concept learning in image search.'

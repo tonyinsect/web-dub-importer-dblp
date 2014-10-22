@@ -1,11 +1,12 @@
-"id_conferencepaper_2":
-  "authors":
-  - "id_author_fogarty_james"
-  - "id_author_hudson_scott"
-  - "id_author_lai_jennifer"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "207-214"
-  "title": "Examining the robustness of sensor-based statistical models of human interruptibility."
+id_conferencepaper_chi2004_fogarty:
+  authors:
+  - id_author_fogarty_james
+  - id_author_hudson_scott
+  - id_author_lai_jennifer
+  conference: id_conference_chi2004
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 207-214
+  title: Examining the robustness of sensor-based statistical models of human interruptibility.

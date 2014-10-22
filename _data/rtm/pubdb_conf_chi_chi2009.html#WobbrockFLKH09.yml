@@ -1,0 +1,15 @@
+id_conferencepaper_chi2009_wobbrock:
+  authors:
+  - id_author_wobbrock_jacob
+  - id_author_fogarty_james
+  - id_author_liu_shih-yen
+  - id_author_kimuro_shunichi
+  - id_author_harada_susumu
+  conference: id_conference_chi2009
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 1401-1410
+  title: 'The angle mouse: target-agnostic dynamic gain adjustment based on angular
+    deviation.'

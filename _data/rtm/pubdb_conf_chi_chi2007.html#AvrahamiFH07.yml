@@ -1,12 +1,13 @@
-"id_conferencepaper_4":
-  "authors":
-  - "id_author_avrahami_daniel"
-  - "id_author_fogarty_james"
-  - "id_author_hudson_scott"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "50-60"
-  "title": "Biases in human estimation of interruptibility: effects and implications\
-    \ for practice."
+id_conferencepaper_chi2007_avrahami:
+  authors:
+  - id_author_avrahami_daniel
+  - id_author_fogarty_james
+  - id_author_hudson_scott
+  conference: id_conference_chi2007
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 50-60
+  title: 'Biases in human estimation of interruptibility: effects and implications
+    for practice.'

@@ -1,11 +1,12 @@
-"id_conferencepaper_13":
-  "authors":
-  - "id_author_lin_thomas"
-  - "id_author_etzioni_oren"
-  - "id_author_fogarty_james"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "1787-1790"
-  "title": "Identifying interesting assertions from the web."
+id_conferencepaper_cikm2009_lin:
+  authors:
+  - id_author_lin_thomas
+  - id_author_etzioni_oren
+  - id_author_fogarty_james
+  conference: id_conference_cikm2009
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 1787-1790
+  title: Identifying interesting assertions from the web.

@@ -1,0 +1,14 @@
+id_conferencepaper_vlhcc2011_ziola:
+  authors:
+  - id_author_ziola_ryder
+  - id_author_grampurohit_shweta
+  - id_author_landes_nate
+  - id_author_fogarty_james
+  - id_author_harrison_beverly
+  conference: id_conference_vlhcc2011
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 65-68
+  title: Examining interaction with general-purpose object recognition in LEGO OASIS.

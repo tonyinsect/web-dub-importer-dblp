@@ -1,0 +1,15 @@
+id_conferencepaper_uist2010_patel:
+  authors:
+  - id_author_patel_kayur
+  - id_author_bancroft_naomi
+  - id_author_drucker_steven
+  - id_author_fogarty_james
+  - id_author_ko_andrew
+  - id_author_landay_james
+  conference: id_conference_uist2010
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 37-46
+  title: 'Gestalt: integrated support for implementation and analysis in machine learning.'

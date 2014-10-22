@@ -1,15 +1,16 @@
-"id_conferencepaper_19":
-  "authors":
-  - "id_author_harada_susumu"
-  - "id_author_lester_jonathan"
-  - "id_author_patel_kayur"
-  - "id_author_saponas_scott"
-  - "id_author_fogarty_james"
-  - "id_author_landay_james"
-  - "id_author_wobbrock_jacob"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "69-76"
-  "title": "VoiceLabel: using speech to label mobile sensor data."
+id_conferencepaper_icmi2008_harada:
+  authors:
+  - id_author_harada_susumu
+  - id_author_lester_jonathan
+  - id_author_patel_kayur
+  - id_author_saponas_scott
+  - id_author_fogarty_james
+  - id_author_landay_james
+  - id_author_wobbrock_jacob
+  conference: id_conference_icmi2008
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 69-76
+  title: 'VoiceLabel: using speech to label mobile sensor data.'

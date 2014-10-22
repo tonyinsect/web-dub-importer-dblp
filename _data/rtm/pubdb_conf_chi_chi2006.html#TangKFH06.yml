@@ -1,13 +1,14 @@
-"id_conferencepaper_3":
-  "authors":
-  - "id_author_tang_karen"
-  - "id_author_keyani_pedram"
-  - "id_author_fogarty_james"
-  - "id_author_hong_jason"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "93-102"
-  "title": "Putting people in their place: an anonymous and privacy-sensitive approach\
-    \ to collecting sensed data in location-based applications."
+id_conferencepaper_chi2006_tang:
+  authors:
+  - id_author_tang_karen
+  - id_author_keyani_pedram
+  - id_author_fogarty_james
+  - id_author_hong_jason
+  conference: id_conference_chi2006
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 93-102
+  title: 'Putting people in their place: an anonymous and privacy-sensitive approach
+    to collecting sensed data in location-based applications.'

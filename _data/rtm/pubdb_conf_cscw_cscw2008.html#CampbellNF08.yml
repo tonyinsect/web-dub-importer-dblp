@@ -1,11 +1,12 @@
-"id_conferencepaper_14":
-  "authors":
-  - "id_author_campbell_taj"
-  - "id_author_ngo_brian"
-  - "id_author_fogarty_james"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "249-252"
-  "title": "Game design principles in everyday fitness applications."
+id_conferencepaper_cscw2008_campbell:
+  authors:
+  - id_author_campbell_taj
+  - id_author_ngo_brian
+  - id_author_fogarty_james
+  conference: id_conference_cscw2008
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 249-252
+  title: Game design principles in everyday fitness applications.

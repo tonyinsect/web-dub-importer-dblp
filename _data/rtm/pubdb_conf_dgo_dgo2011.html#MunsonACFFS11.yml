@@ -1,0 +1,15 @@
+id_conferencepaper_dgo2011_munson:
+  authors:
+  - id_author_munson_sean
+  - id_author_avrahami_daniel
+  - id_author_consolvo_sunny
+  - id_author_fogarty_james
+  - id_author_friedman_batya
+  - id_author_smith_ian
+  conference: id_conference_dgo2011
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 2-9
+  title: Attitudes toward online availability of US public records.

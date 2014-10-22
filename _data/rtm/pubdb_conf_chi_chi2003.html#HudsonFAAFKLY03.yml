@@ -1,0 +1,18 @@
+id_conferencepaper_chi2003_hudson:
+  authors:
+  - id_author_hudson_scott
+  - id_author_fogarty_james
+  - id_author_atkeson_christopher
+  - id_author_avrahami_daniel
+  - id_author_forlizzi_jodi
+  - id_author_kiesler_sara
+  - id_author_lee_johnny
+  - id_author_yang_jie
+  conference: id_conference_chi2003
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 257-264
+  title: 'Predicting human interruptibility with sensors: a Wizard of Oz feasibility
+    study.'

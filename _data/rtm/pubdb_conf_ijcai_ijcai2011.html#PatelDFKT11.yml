@@ -1,13 +1,14 @@
-"id_conferencepaper_20":
-  "authors":
-  - "id_author_patel_kayur"
-  - "id_author_drucker_steven"
-  - "id_author_fogarty_james"
-  - "id_author_kapoor_ashish"
-  - "id_author_tan_desney"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "1723-1728"
-  "title": "Using Multiple Models to Understand Data."
+id_conferencepaper_ijcai2011_patel:
+  authors:
+  - id_author_patel_kayur
+  - id_author_drucker_steven
+  - id_author_fogarty_james
+  - id_author_kapoor_ashish
+  - id_author_tan_desney
+  conference: id_conference_ijcai2011
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 1723-1728
+  title: Using Multiple Models to Understand Data.

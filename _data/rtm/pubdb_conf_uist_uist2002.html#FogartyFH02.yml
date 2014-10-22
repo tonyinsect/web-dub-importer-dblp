@@ -1,12 +1,13 @@
-"id_conferencepaper_23":
-  "authors":
-  - "id_author_fogarty_james"
-  - "id_author_forlizzi_jodi"
-  - "id_author_hudson_scott"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "61-70"
-  "title": "Specifying behavior and semantic meaning in an unmodified layered drawing\
-    \ package."
+id_conferencepaper_uist2002_fogarty:
+  authors:
+  - id_author_fogarty_james
+  - id_author_forlizzi_jodi
+  - id_author_hudson_scott
+  conference: id_conference_uist2002
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 61-70
+  title: Specifying behavior and semantic meaning in an unmodified layered drawing
+    package.

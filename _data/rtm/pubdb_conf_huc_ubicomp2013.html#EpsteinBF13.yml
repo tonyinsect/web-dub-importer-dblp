@@ -1,11 +1,12 @@
-"id_conferencepaper_18":
-  "authors":
-  - "id_author_epstein_daniel"
-  - "id_author_borning_alan"
-  - "id_author_fogarty_james"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "489-498"
-  "title": "Fine-grained sharing of sensed physical activity: a value sensitive approach."
+id_conferencepaper_ubicomp2013_epstein:
+  authors:
+  - id_author_epstein_daniel
+  - id_author_borning_alan
+  - id_author_fogarty_james
+  conference: id_conference_ubicomp2013
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 489-498
+  title: 'Fine-grained sharing of sensed physical activity: a value sensitive approach.'

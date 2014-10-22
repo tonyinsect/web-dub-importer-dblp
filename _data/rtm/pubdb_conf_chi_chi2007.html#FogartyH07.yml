@@ -1,11 +1,12 @@
-"id_conferencepaper_5":
-  "authors":
-  - "id_author_fogarty_james"
-  - "id_author_hudson_scott"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "135-144"
-  "title": "Toolkit support for developing and deploying sensor-based statistical\
-    \ models of human situations."
+id_conferencepaper_chi2007_fogarty:
+  authors:
+  - id_author_fogarty_james
+  - id_author_hudson_scott
+  conference: id_conference_chi2007
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 135-144
+  title: Toolkit support for developing and deploying sensor-based statistical models
+    of human situations.

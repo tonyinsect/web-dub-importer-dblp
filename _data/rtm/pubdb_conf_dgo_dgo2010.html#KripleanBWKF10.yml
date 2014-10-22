@@ -1,14 +1,15 @@
-"id_conferencepaper_15":
-  "authors":
-  - "id_author_kriplean_travis"
-  - "id_author_borning_alan"
-  - "id_author_waddell_paul"
-  - "id_author_klang_christoffer"
-  - "id_author_fogarty_james"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "112-121"
-  "title": "Supporting agile modeling through experimentation in an integrated urban\
-    \ simulation framework."
+id_conferencepaper_dgo2010_kriplean:
+  authors:
+  - id_author_kriplean_travis
+  - id_author_borning_alan
+  - id_author_waddell_paul
+  - id_author_klang_christoffer
+  - id_author_fogarty_james
+  conference: id_conference_dgo2010
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 112-121
+  title: Supporting agile modeling through experimentation in an integrated urban
+    simulation framework.

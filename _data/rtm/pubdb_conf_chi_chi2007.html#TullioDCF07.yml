@@ -1,13 +1,14 @@
-"id_conferencepaper_6":
-  "authors":
-  - "id_author_tullio_joe"
-  - "id_author_dey_anind"
-  - "id_author_chalecki_jason"
-  - "id_author_fogarty_james"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "31-40"
-  "title": "How it works: a field study of non-technical users interacting with an\
-    \ intelligent system."
+id_conferencepaper_chi2007_tullio:
+  authors:
+  - id_author_tullio_joe
+  - id_author_dey_anind
+  - id_author_chalecki_jason
+  - id_author_fogarty_james
+  conference: id_conference_chi2007
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 31-40
+  title: 'How it works: a field study of non-technical users interacting with an intelligent
+    system.'

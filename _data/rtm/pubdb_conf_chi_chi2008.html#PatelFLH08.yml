@@ -1,0 +1,13 @@
+id_conferencepaper_chi2008_patel:
+  authors:
+  - id_author_patel_kayur
+  - id_author_fogarty_james
+  - id_author_landay_james
+  - id_author_harrison_beverly
+  conference: id_conference_chi2008
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 667-676
+  title: Investigating statistical machine learning as a tool for software development.

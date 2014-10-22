@@ -1,0 +1,15 @@
+id_conferencepaper_chi2005_fogarty:
+  authors:
+  - id_author_fogarty_james
+  - id_author_ko_andrew
+  - id_author_aung_htet_htet
+  - id_author_golden_elspeth
+  - id_author_tang_karen
+  - id_author_hudson_scott
+  conference: id_conference_chi2005
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 331-340
+  title: Examining task engagement in sensor-based statistical models of human interruptibility.

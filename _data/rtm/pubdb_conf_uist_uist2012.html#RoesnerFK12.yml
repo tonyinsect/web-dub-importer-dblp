@@ -1,0 +1,12 @@
+id_conferencepaper_uist2012_roesner:
+  authors:
+  - id_author_roesner_franzi
+  - id_author_fogarty_james
+  - id_author_kohno_tadayoshi
+  conference: id_conference_uist2012
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 239-250
+  title: User interface toolkit mechanisms for securing interface elements.

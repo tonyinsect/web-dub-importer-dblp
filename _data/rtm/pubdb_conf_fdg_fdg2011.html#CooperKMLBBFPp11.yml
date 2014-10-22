@@ -1,0 +1,18 @@
+id_conferencepaper_fdg2011_cooper:
+  authors:
+  - id_author_cooper_seth
+  - id_author_khatib_firas
+  - id_author_makedon_ilya
+  - id_author_lu_hao
+  - id_author_barbero_janos
+  - id_author_baker_david
+  - id_author_fogarty_james
+  - id_author_popovic_zoran
+  - id_author_players_foldit
+  conference: id_conference_fdg2011
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 9-14
+  title: Analysis of social gameplay macros in the Foldit cookbook.

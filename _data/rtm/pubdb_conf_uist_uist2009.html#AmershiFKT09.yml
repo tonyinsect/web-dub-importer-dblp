@@ -1,13 +1,13 @@
-id_conferencepaper_chi2010_amershi:
+id_conferencepaper_uist2009_amershi:
   authors:
   - id_author_amershi_saleema
   - id_author_fogarty_james
   - id_author_kapoor_ashish
   - id_author_tan_desney
-  conference: id_conference_chi2010
+  conference: id_conference_uist2009
   localpdf: ''
   localthumb: ''
   localvideo: ''
   officialurl: ''
-  pages: 1357-1360
-  title: Examining multiple potential models in end-user interactive concept learning.
+  pages: 247-256
+  title: Overview based example selection in end user interactive concept learning.

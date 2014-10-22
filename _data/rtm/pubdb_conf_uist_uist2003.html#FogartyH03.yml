@@ -1,11 +1,12 @@
-"id_conferencepaper_24":
-  "authors":
-  - "id_author_fogarty_james"
-  - "id_author_hudson_scott"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "125-134"
-  "title": "GADGET: a toolkit for optimization-based approaches to interface and display\
-    \ generation."
+id_conferencepaper_uist2003_fogarty:
+  authors:
+  - id_author_fogarty_james
+  - id_author_hudson_scott
+  conference: id_conference_uist2003
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 125-134
+  title: 'GADGET: a toolkit for optimization-based approaches to interface and display
+    generation.'

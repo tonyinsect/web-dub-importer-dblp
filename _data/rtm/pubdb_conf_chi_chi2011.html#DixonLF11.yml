@@ -1,12 +1,13 @@
-"id_conferencepaper_10":
-  "authors":
-  - "id_author_dixon_morgan"
-  - "id_author_leventhal_daniel"
-  - "id_author_fogarty_james"
-  "localpdf": ""
-  "localthumb": ""
-  "localvideo": ""
-  "officialurl": ""
-  "pages": "969-978"
-  "title": "Content and hierarchy in pixel-based methods for reverse engineering interface\
-    \ structure."
+id_conferencepaper_chi2011_dixon:
+  authors:
+  - id_author_dixon_morgan
+  - id_author_leventhal_daniel
+  - id_author_fogarty_james
+  conference: id_conference_chi2011
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 969-978
+  title: Content and hierarchy in pixel-based methods for reverse engineering interface
+    structure.

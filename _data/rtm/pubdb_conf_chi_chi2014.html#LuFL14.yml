@@ -1,0 +1,13 @@
+id_conferencepaper_chi2014_lu:
+  authors:
+  - id_author_lu_hao
+  - id_author_fogarty_james
+  - id_author_li_yang
+  conference: id_conference_chi2014
+  localpdf: ''
+  localthumb: ''
+  localvideo: ''
+  officialurl: ''
+  pages: 1685-1694
+  title: 'Gesture script: recognizing gestures and their structure using rendering
+    scripts and interactively trained parts.'
