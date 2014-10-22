@@ -99,8 +99,9 @@ def run(directory):
                     time.sleep(0.5)
                     # adict['id_publication_'+re.sub(r'[^a-zA-Z]','_',pub.title.lower())]
                     # = pdict
-            except KeyError:
+            except Exception as e:
                 print('\nwrong: ' + str(i))
+                print(e)
                 pass
 
         # use the full name of the people as the id
