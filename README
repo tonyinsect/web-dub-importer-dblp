@@ -1,0 +1,26 @@
+Please look at "test.py". 
+
+import importer
+# importer.run('_data')
+importer.normalize('_data')
+# importer.build_dict('_data')
+
+The first line is import importer module. The second line is to run the importer. The third line is to run normalizer. The forth line is to build a map file.
+
+The argument ‘_data’ is our file folder. There should be a file named "url.yml" which contains the author urls. The "url.yml" file should like this:
+
+	id_fogarty_james:
+	  url: f/Fogarty:James
+	id_kientz_julie:
+	  url: k/Kientz:Julie_A=
+	id_anderson_richard:
+	  url: a/Anderson:Richard_J=
+
+The importer will create a new directory named "nn" (need normalize) to store all the downloaded files. The files will named by "pub"+publication.url+".yml".
+
+The normalizer will create a new directory named "rtm" (ready to merge) to store all the normalized file. The normalizer will first load the files in meta directory. Those file are the origin files from web-dub and "map.yml" file. The normalizer will treat these files as "right data" and do the normalize thing.
+
+The "map.yml" is builded by "BuildDict.py". This script will find all match pairs in the "nn" directory and "meta" directory. This script should be luanched before the normalizer. And actually it will build a file named "test.yml" which can be modified by us to build the "map.yml". "test.yml" will contain all the matched pairs and we can delete some wrong pairs then rename it to "map.yml".
+
+After testing, now only the author names map to author ids can be used.
+

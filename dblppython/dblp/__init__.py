@@ -79,7 +79,7 @@ class Publication(LazyAPIData):
             'type': list(publication.keys())[0],
             'key': first_or_none(tempdict, '@key'),
             'mdate': first_or_none(tempdict, '@mdate'),
-            'authors': tempdict['author'],
+            'authors': first_or_none(tempdict,'author'),
             'editors': first_or_none(tempdict, 'editor'),
             'title': first_or_none(tempdict, 'title'),
             'year': int(first_or_none(tempdict, 'year')),

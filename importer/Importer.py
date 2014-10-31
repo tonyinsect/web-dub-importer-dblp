@@ -8,6 +8,7 @@ import yaml
 import re
 # import lxml
 import time
+import os
 
 
 def run(directory):
@@ -15,6 +16,9 @@ def run(directory):
     fin = open(directory + '/url.yml')
     urls = yaml.load(fin)
     fin.close()
+
+    if not os.path.exists(directory+"/nn"):
+    	os.makedirs(directory+"/nn")
     # fout.write('---\n')
     fdict = {}
     count = 0
@@ -23,7 +27,7 @@ def run(directory):
         author = dblppython.dblp.Author(url['url'].strip('\n'))
         name = author.name.split(' ')
         adict = {}
-
+        print("\n")
         print(author.name)
         # for pub in author.publications:
         for i in range(len(author.publications)):
@@ -31,7 +35,7 @@ def run(directory):
             try:
                 if pub.authors:
                     tempdict = {}
-                    print(i)
+                    print(str(i)+" "+pub.title)
                     # hashcode = hashlib.sha224(str(pub)).hexdigest()
                     first = pub.authors[0].split(' ')
                     pdict = {}
@@ -90,8 +94,10 @@ def run(directory):
                     # for j in range(5-len(filename)):
                     #     filename = '0'+filename
 
-                    fout = codecs.open(directory + '/nn/pub'+filename.replace('/','_')+'.yml', 'w', 'utf-8')
-                    out = yaml.dump(tempdict, default_flow_style=False, default_style='"')
+                    fout = codecs.open(
+                        directory + '/nn/pub' + filename.replace('/', '_') + '.yml', 'w', 'utf-8')
+                    out = yaml.dump(
+                        tempdict, default_flow_style=False, default_style='"')
                     fout.write(out)
                     fout.close()
                     count = count + 1
@@ -100,12 +106,13 @@ def run(directory):
                     # adict['id_publication_'+re.sub(r'[^a-zA-Z]','_',pub.title.lower())]
                     # = pdict
             except Exception as e:
-                print('\nwrong: ' + str(i))
+                print('\nwrong: ' + str(i) + " " + pub.title + " ")
                 print(e)
                 pass
 
         # use the full name of the people as the id
-        fdict['id_' + name[len(name) - 1].lower() + '_' + name[0].lower()] = adict
+        fdict[
+            'id_' + name[len(name) - 1].lower() + '_' + name[0].lower()] = adict
 
     # fout = codecs.open(directory + '/publications.yml', 'w', 'utf-8')
     # out = yaml.dump(fdict, default_flow_style=False, default_style='"')
